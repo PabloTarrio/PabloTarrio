@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_pablo_v2.png" alt="Banner PLC, robótica, SCADA y visión artificial" />
+  <img src="github_README_header.png" alt="Banner PLC, robótica, SCADA y visión artificial" />
 </p>
 
 Programador PLC y técnico de puesta en marcha con 10+ años de experiencia industrial, actualmente centrado en robótica, visión artificial y programación en entornos universitarios.
