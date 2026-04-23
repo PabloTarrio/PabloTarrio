@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/github_banner_20260423_v1.png" alt="Banner PLC, robótica, SCADA y visión artificial" />
+  <img src="/images/github_README_banner_20260423_v0.2.png" alt="Banner PLC, robótica, SCADA y visión artificial" />
 </p>
 
 Programador PLC y técnico de puesta en marcha con 10+ años de experiencia industrial, actualmente centrado en robótica, visión artificial y programación en entornos universitarios.
@@ -35,31 +35,28 @@ Programador PLC y técnico de puesta en marcha con 10+ años de experiencia indu
 - 🔭 **rplidar-tcp-client**  
   Librería en Python para integrar sensores RPLIDAR conectados a Raspberry Pi vía TCP, orientada a proyectos de robótica en educación.
 
-- 🎥 **rpicam-tcp-client**  
+  :movie_camera:
+
+- ![camera](https://www.readmecodegen.com/api/social-icon?name=camera&size=16) **rpicam-tcp-client**  
   Librería en Python para streaming de cámara Raspberry Pi vía TCP, pensada para visión artificial en entornos educativos y de prototipado.
 
 *(Aquí añadiría más proyectos personales cuando quieras destacarlos.)*
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## ![cog](https://www.readmecodegen.com/api/social-icon?name=cog&size=16) Tecnologías y herramientas
 
 - PLC / Automatización: Siemens S7-1200/1500/ET200, Schneider Modicon, TIA Portal, SoMachine, RSLogix.
 - Lenguajes: KOP/LD/ST para PLC, C, C++, Python, ROS2.
 - Hardware y maker: Arduino, Raspberry Pi, neumática, hidráulica, electrónica digital y analógica, diseño e impresión 3D.
 - Otros: Visual Studio Code, Git/GitHub, entornos Linux, trabajo en campo y puesta en marcha internacional.
 
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,c,cs,cpp,py,ros&theme=light)](https://skillicons.dev)
 ---
+## ![mapmarker](https://www.readmecodegen.com/api/social-icon?name=mapmarker&size=16) Dónde encontrarme
 
-## 🌍 Idiomas
-
-- Castellano y gallego (CELGA 4) nativos.
-- Inglés B2 (CEFR).
-
----
-
-## 📫 Dónde encontrarme
-
-- GitHub: [PabloTarrio](https://github.com/PabloTarrio)  
-- LinkedIn: [linkedin.com/in/pablotarrio](https://www.linkedin.com/in/pablotarrio/)
-- Email: ptarriog@gmail.com
+[![pablotarrio](https://skillicons.dev/icons?i=github)](https://github.com/PabloTarrio)
+[![pablotarrio](https://skillicons.dev/icons?i=gmail)](ptarriog@gmail.com)
+[![pablotarrio](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/arzot)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpablotarrio%2F)](https://www.linkedin.com/in/pablotarrio/)
+[![spotify](https://www.readmecodegen.com/api/social-icon?name=spotify&size=48&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2Ftonetti)](https://open.spotify.com/user/tonetti)
